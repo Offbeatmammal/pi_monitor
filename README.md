@@ -1,4 +1,4 @@
-# pi_monitor
+# pi_monitor.py
 
 Once a minute this script monitors system status including CPU temperature, load, power status, NVMe temperature, and connectivity.
 
