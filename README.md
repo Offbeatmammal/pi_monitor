@@ -17,3 +17,5 @@ Frustrating thing was that I wanted to move pihole and my in-bound vpn connectio
 
 Could maybe do with some throttling to stop it continually trying to restart network if (for instance) we actually lose internet, or the external host is down for any reason.
 Best improvement would be a fix to the wifi issue that allows me to retire the script ;)
+
+If you'd prefer a shell approach vs python, check out https://codeberg.org/raspberry-script/raspberrypi-wifi-reset/src/branch/main
